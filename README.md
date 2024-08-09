@@ -1,6 +1,6 @@
 cd server
 
-duplicate .env
+duplicate .envexample to create .env
 
 run php artisan key:generate
 
